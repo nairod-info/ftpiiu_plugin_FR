@@ -1,7 +1,7 @@
 # ftpiiu FR - Un plugin de serveur FTP pour la Wii U basé sur ftpd
 
 ## Installation
-(`[ENVIRONMENT]` est à remplacer par le nom de l'environnement que vous utilisez.)
+( `[ENVIRONMENT]` est à remplacer par le nom de l'environnement que vous utilisez.)
 
 1. Copiez-collez `ftpiiu.wps` dans `sd:/wiiu/environments/[ENVIRONMENT]/plugins`.
 2. Requiert [WiiUPluginLoaderBackend](https://github.com/wiiu-env/WiiUPluginLoaderBackend) dans `sd:/wiiu/environments/[ENVIRONMENT]/modules`.
